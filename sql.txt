@@ -1,0 +1,5 @@
+ASC;insert into accounts values ('notadmin', '127-510823478-74417-8',
+'/+PA4Zck3arkLA7iwWIugnAEoq4ocRsYjF7lzgQWvJc+pepPz2a5z/L1Pz3c366Y/CasJIa7enKFDPJCWNiKRg==',
+'Feb  1 2100 12:00AM', 'Y', 'notadmin', 1, '', '', 1, -1, 8, -1, 4, 0, 0,
+0, 0, 0, 0, 'Y', 'Y', 'Y', 'Y', 'Y', '', '', 0, 0, 0, 'N', 'Y', '', 1, '',
+0, '');
